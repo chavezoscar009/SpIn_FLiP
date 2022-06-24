@@ -11,7 +11,7 @@ import os.path
 
 
 setuptools.setup(
-    name="SpIn",
+    name="SpIn_FLiP",
     version="1.0.0",
     author="Camila Angulo, Oscar Chávez, Erica Sawczynec",
     author_email="spin@spin.com",
