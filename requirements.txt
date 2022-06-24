@@ -1,7 +1,7 @@
 numpy
 specutils
 astropy 
-muler>=3.3
+muler>=0.3.1
 matplotlib
 scipy
 warnings
