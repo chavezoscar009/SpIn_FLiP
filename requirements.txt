@@ -4,4 +4,4 @@ astropy
 muler>=0.3.1
 matplotlib
 scipy
-warnings
+yaml
