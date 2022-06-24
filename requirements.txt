@@ -1,5 +1,3 @@
-from abc import abstractproperty
-
 import matplotlib
 import scipy
 from yaml import warnings
